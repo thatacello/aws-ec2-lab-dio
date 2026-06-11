@@ -26,13 +26,33 @@ O objetivo foi consolidar conceitos fundamentais de computação em nuvem, segur
 
 ## 🖼️ Evidências do Laboratório
 
-### Console AWS
+### Arquitetura baseada em EC2 e Serverless
 
-![Console AWS](images/aws-console.png)
+![Console AWS](images/Untitled%20Diagram.drawio.png)
 
-### Instância EC2 Criada
+### Storage Classes
 
-![Instância EC2](images/instance-created.png)
+![Instância EC2](images/GetImage.png)
+
+### AMI
+
+![Instância EC2](images/GetImage%20(5).png)
+
+### Como Interpretar o Nome de uma Instância EC2
+
+![Instância EC2](images/GetImage%20(4).png)
+
+### Tipos de Instâncias
+
+![Instância EC2](images/GetImage%20(3).png)
+
+### Famílias de Instâncias
+
+![Instância EC2](images/GetImage%20(2).png)
+
+### Lifecycle
+
+![Instância EC2](images/GetImage%20(1).png)
 
 ---
 
